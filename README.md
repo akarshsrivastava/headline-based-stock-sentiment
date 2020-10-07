@@ -7,7 +7,7 @@ This model takes news headline or collection of news headlines for a stock and p
 Here, I used a 'reuters 3500+ stocks since 2017' dataset for my experiment. 
 Dataset path: https://drive.google.com/file/d/1E101A_cA--i9Ayr8CmezDQGiWdImDfTg/view?usp=sharing
 
-Please check the the python notebook to go through the code.
+Please check the python notebook to go through the code.
 
 I will deploy this model as web app so that this project has a real life utility. 
 url for this project: https://headline-based-stock-sentiment.herokuapp.com/
