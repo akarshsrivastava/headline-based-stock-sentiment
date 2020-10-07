@@ -35,7 +35,7 @@ def predict():
         if int(pred)==0: 
             prediction ='no strong movement predicted for ' + name
         if int(pred)==-1:
-            prediction ='decreasing or no stock movement predicted for ' + name
+            prediction ='decreasing stock movement predicted for ' + name
         
         return render_template("index.html", prediction = prediction)
         #label = str(pred)
