@@ -38,20 +38,7 @@ def predict():
             prediction ='decreasing stock movement predicted for ' + name
         
         return render_template("index.html", prediction = prediction)
-        #label = str(pred)
-
-#         output=""    
-
-#         if(label == '1'):
-#             output = 'increasing stock movement predicted for ' + name 
-
-#         if(label == '0'):
-#             output = 'decreasing or no stock movement predicted for ' + name
-
-#         if(label == '-1'):
-#             output = 'decreasing or no stock movement predicted for ' + name
-    
-    #return render_template('index.html', prediction='Prediction: {}'.format(label)) # rendering the predicted result
+        
     
 if __name__ == "__main__":
     app.run(debug=True)
