@@ -13,6 +13,7 @@ Refer the python notebook (stock_sentiment_using_headline_reuters_2017_onwards_d
 # Dataset
 
 For this project, I used a 'reuters 3500+ stocks since 2017' dataset for my experiment. 
+
 Dataset path: https://drive.google.com/file/d/1E101A_cA--i9Ayr8CmezDQGiWdImDfTg/view?usp=sharing
 
 # Software and Libraries
