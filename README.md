@@ -28,6 +28,6 @@ For this project, I have used the following software and Python libraries:
 6. Jupyter Notebook
 
 I will deploy this model as web app so that this project has a real life utility. 
-url for this project: https://headline-based-stock-sentiment.herokuapp.com/
+URL for this project: https://headline-based-stock-sentiment.herokuapp.com/
 
 
