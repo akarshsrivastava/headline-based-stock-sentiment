@@ -20,11 +20,12 @@ Dataset path: https://drive.google.com/file/d/1E101A_cA--i9Ayr8CmezDQGiWdImDfTg/
 
 For this project, I have used the following software and Python libraries:
 
-1. Python 2.7
-2. NumPy
+1. python version >= python 2.7
+2. numPy
 3. pandas
-4. Matplotlib
-5. Jupyter Notebook
+4. matplotlib
+5. scikit-learn
+6. Jupyter Notebook
 
 I will deploy this model as web app so that this project has a real life utility. 
 url for this project: https://headline-based-stock-sentiment.herokuapp.com/
