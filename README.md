@@ -10,6 +10,8 @@ This model takes news headline or collection of news headlines for a stock and p
 
 Refer the python notebook (stock_sentiment_using_headline_reuters_2017_onwards_data.ipynb) to go through the code. 
 
+URL: https://github.com/akarshsrivastava/headline-based-stock-sentiment/blob/main/stock_sentiment_using_headline_reuters_2017_onwards_data.ipynb
+
 # Dataset
 
 For this project, I used a 'reuters 3500+ stocks since 2017' dataset for my experiment. 
